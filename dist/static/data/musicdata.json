@@ -1,0 +1,39 @@
+{
+  "musicData": [{
+    "title": "易燃易爆炸",
+    "author": "冯提莫",
+    "src": "/static/lrc/冯提莫 - 易燃易爆炸.mp3",
+    "musicImgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543551474026&di=6641e4d1055cb4713cba9337a10ef03d&imgtype=0&src=http%3A%2F%2Flastfm-img2.akamaized.net%2Fi%2Fu%2F300x300%2Feb6be5bfad5e362c41b1eb9e49b3c657.jpg",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
+  }, {
+    "title": "买辣椒也用券 - 起风了",
+    "author": "买辣椒也用券",
+    "src": "/static/lrc/买辣椒也用券 - 起风了.mp3",
+    "musicImgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543555057936&di=c8388bd77ea95e319cf6af98287fbcb9&imgtype=0&src=http%3A%2F%2Fs14.sinaimg.cn%2Fmw690%2F006sRXzgzy7kUIRjvWJed%26690",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
+  }, {
+    "title": "自由",
+    "author": "韦礼安",
+    "src": "/static/lrc/韦礼安 - 自由.mp3",
+    "musicImgSrc": "http://img5.imgtn.bdimg.com/it/u=2914708055,1789430746&fm=11&gp=0.jpg",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
+  }, {
+    "title": "默",
+    "author": "黄致列",
+    "src": "/static/lrc/黄致列 - 默.mp3",
+    "musicImgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543555673372&di=952911d073192c008741529561070cec&imgtype=0&src=http%3A%2F%2Fimg.idol001.com%2Fthumbnail%2F2016%2F05%2F02%2F1e2a8c34d9fac59d7922efd98a8e62b11462185361.jpg",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
+  }, {
+    "title": "演员",
+    "author": "薛之谦",
+    "src": "/static/lrc/薛之谦 - 演员.mp3",
+    "musicImgSrc": "http://img.go007.com/2016/09/28/f0812df0bffb54fd_0.jpg",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
+  }, {
+    "title": "烟火里的尘埃 (2014北京火星演唱会)",
+    "author": "华晨宇",
+    "src": "/static/lrc/华晨宇 - 烟火里的尘埃 (2014北京火星演唱会).mp3",
+    "musicImgSrc": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543556109281&di=ab58ccdbe0919b3722e750af602459d5&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D4082189698%2C22935650%26fm%3D214%26gp%3D0.jpg",
+    "lrc": "https://api.bzqll.com/music/netease/lrc?key=579621905&id=526307800"
+  }]
+}
